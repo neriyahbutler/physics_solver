@@ -1,1 +1,7 @@
+#This code that I created solves physics problems in either Physics 1 or Physics 2. 
+#The choice of equations are limited to what are within the respected subject's text file.
 
+
+#PLANNED UPDATES!!
+#At the moment, I do not have a lot of equations within the text files, but I will add more in the future
+#Additionally, I plan on making the code able to solve for unknown variables within an equation
