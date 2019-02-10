@@ -1,7 +1,9 @@
-#This code that I created solves physics problems in either Physics 1 or Physics 2. 
-#The choice of equations are limited to what are within the respected subject's text file.
+This code that I created solves physics problems in either Physics 1 or Physics 2. 
+The choice of equations are limited to what are within the respected subject's text file.
+
+The purpose of this project was to use all (well most rather) of the things I'd learned in my intro to Computer Science course in Python.
 
 
 #PLANNED UPDATES!!
-#At the moment, I do not have a lot of equations within the text files, but I will add more in the future
-#Additionally, I plan on making the code able to solve for unknown variables within an equation
+At the moment, I do not have a lot of equations within the text files, but I will add more in the future
+Additionally, I plan on making the code able to solve for unknown variables within an equation
